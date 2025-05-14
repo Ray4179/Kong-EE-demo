@@ -1,0 +1,202 @@
+_format_version: "3.0"
+ca_certificates:
+- cert: |-
+    -----BEGIN CERTIFICATE-----
+    MIIBfDCCASKgAwIBAgIRAPPNcWgPZ0i2eB2ksdtnBOMwCgYIKoZIzj0EAwIwHDEa
+    MBgGA1UEAxMRRGVtbyBLb25nIFJvb3QgQ0EwHhcNMjUwMzAzMTcwODQ5WhcNMzAw
+    MzAzMjMwODQ5WjAcMRowGAYDVQQDExFEZW1vIEtvbmcgUm9vdCBDQTBZMBMGByqG
+    SM49AgEGCCqGSM49AwEHA0IABLbfv7KWljd8LFxONpOks3b/2kTNpn6dn0mjrmuR
+    Y729bEz2VXyjy35ZIPV4F3o6GI03krKTFhJxdNuW/Eg2KtajRTBDMA4GA1UdDwEB
+    /wQEAwIBBjASBgNVHRMBAf8ECDAGAQH/AgECMB0GA1UdDgQWBBSqwNu57tugyXhV
+    WgNgtApZyle5KzAKBggqhkjOPQQDAgNIADBFAiB81D+njBM42+dwZ4qZhHIw7n93
+    pLS6UTKgCVW04m+ExAIhANSDecviW6vx/KPyJKO6JMRrLId7QUgtkPg7twHr0CEj
+    -----END CERTIFICATE-----
+  cert_digest: 771c2b20ff90715ad77b93a16b63e8866d67a0f3efedfa2576932e82b3cf3ea8
+  id: 1320ba07-75f2-46b9-8f32-9554d87dbad0
+- cert: |-
+    -----BEGIN CERTIFICATE-----
+    MIIBqzCCAVCgAwIBAgIQNXfTpTobX1WjrcLK0bM4HzAKBggqhkjOPQQDAjAcMRow
+    GAYDVQQDExFEZW1vIEtvbmcgUm9vdCBDQTAeFw0yNTAzMDMxNzEwNTdaFw0zMDAz
+    MDMyMzEwNTdaMCoxKDAmBgNVBAMTH0RlbW8gS29uZyBSb290IEludGVybWVkaWF0
+    ZTEgQ0EwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQVnehr2g33bsOGB0OMAz/r
+    5ZmQ2Ww7fphGhOCi38bss3b1aVCzhT5ar0mv0vG9DPQvAfgsgeID+GCEA/DQILM/
+    o2YwZDAOBgNVHQ8BAf8EBAMCAQYwEgYDVR0TAQH/BAgwBgEB/wIBATAdBgNVHQ4E
+    FgQU7R47W802bJU04XKOFJjs+V7/mMswHwYDVR0jBBgwFoAUqsDbue7boMl4VVoD
+    YLQKWcpXuSswCgYIKoZIzj0EAwIDSQAwRgIhAPsda8j823f+9BgG46lJwwVKwgde
+    2QhieP6jU07qax6+AiEA0mPJQn4NnUffKJAbbLunkvNsKYMIwuRCXy7S4o5U+Eg=
+    -----END CERTIFICATE-----
+  cert_digest: 1df4d281e7dde5febd37f94524d85d7eaface541d56d04536de221b88036f9eb
+  id: 86e8dbe2-d87a-4e87-9210-ce65f7bca7ae
+- cert: |-
+    -----BEGIN CERTIFICATE-----
+    MIIBuDCCAV6gAwIBAgIQRIyThha2uNh99Lk6OM3TNzAKBggqhkjOPQQDAjAqMSgw
+    JgYDVQQDEx9EZW1vIEtvbmcgUm9vdCBJbnRlcm1lZGlhdGUxIENBMB4XDTI1MDMw
+    MzE3MTE0MloXDTMwMDMwMzIzMTE0MlowKjEoMCYGA1UEAxMfRGVtbyBLb25nIFJv
+    b3QgSW50ZXJtZWRpYXRlMiBDQTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABFPL
+    D3WS4p6TftVhCvtUSdjbHeFnD3rHIbsn2cIiNAQXcBd0GaK+8k9/IZEhSYhWuNNo
+    D3h7Dx4YAfojK/vhkLqjZjBkMA4GA1UdDwEB/wQEAwIBBjASBgNVHRMBAf8ECDAG
+    AQH/AgEAMB0GA1UdDgQWBBQrqSl2ABH1NYpYf4byH99BeAmanTAfBgNVHSMEGDAW
+    gBTtHjtbzTZslTThco4UmOz5Xv+YyzAKBggqhkjOPQQDAgNIADBFAiB9Svfh5Ptx
+    Fo3mO3FuklS+VTLHTyS68xM6ZW6lpghDbwIhAKQCQimcDCVKqOH/0RhpJToFqqR8
+    tlpv5BS2a3XIWR1T
+    -----END CERTIFICATE-----
+  cert_digest: 0add5e5a9995daa9deff959bbc15da3584e20ac485d373521d4acbb0daf3cb9c
+  id: 10f7e191-6812-4d8f-8964-63b1429d917e
+certificates:
+- cert: |-
+    -----BEGIN CERTIFICATE-----
+    MIIB0TCCAXigAwIBAgIRAPWUsrGhDwW8UPlMPUVet5IwCgYIKoZIzj0EAwIwKjEo
+    MCYGA1UEAxMfRGVtbyBLb25nIFJvb3QgSW50ZXJtZWRpYXRlMiBDQTAeFw0yNTAz
+    MDMxNzI1MTdaFw0zMDAzMDMyMzI1MTdaMBoxGDAWBgNVBAMTD3NlcnZlci5rb25n
+    LmxhbjBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABKWx85Wf44YgGptNc3rHl2if
+    GUH9uJBVAJBWmCs5D9hqhRktKczXkJYYkkdaSUa57xcoYqohY0R5e1gP228KmCWj
+    gY4wgYswDgYDVR0PAQH/BAQDAgeAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEF
+    BQcDAjAdBgNVHQ4EFgQUBG2YO/g3lK0TX17azQvm4QW6X1owHwYDVR0jBBgwFoAU
+    K6kpdgAR9TWKWH+G8h/fQXgJmp0wGgYDVR0RBBMwEYIPc2VydmVyLmtvbmcubGFu
+    MAoGCCqGSM49BAMCA0cAMEQCIHpRC10UiOips6kx0kw7S5wIwSJxKKCgJPfrw1iU
+    XmsNAiAhTlR6waV1oG46wP5SYc1k7jALMQm8rxjtL1TODUo4kA==
+    -----END CERTIFICATE-----
+    -----BEGIN CERTIFICATE-----
+    MIIBuDCCAV6gAwIBAgIQRIyThha2uNh99Lk6OM3TNzAKBggqhkjOPQQDAjAqMSgw
+    JgYDVQQDEx9EZW1vIEtvbmcgUm9vdCBJbnRlcm1lZGlhdGUxIENBMB4XDTI1MDMw
+    MzE3MTE0MloXDTMwMDMwMzIzMTE0MlowKjEoMCYGA1UEAxMfRGVtbyBLb25nIFJv
+    b3QgSW50ZXJtZWRpYXRlMiBDQTBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABFPL
+    D3WS4p6TftVhCvtUSdjbHeFnD3rHIbsn2cIiNAQXcBd0GaK+8k9/IZEhSYhWuNNo
+    D3h7Dx4YAfojK/vhkLqjZjBkMA4GA1UdDwEB/wQEAwIBBjASBgNVHRMBAf8ECDAG
+    AQH/AgEAMB0GA1UdDgQWBBQrqSl2ABH1NYpYf4byH99BeAmanTAfBgNVHSMEGDAW
+    gBTtHjtbzTZslTThco4UmOz5Xv+YyzAKBggqhkjOPQQDAgNIADBFAiB9Svfh5Ptx
+    Fo3mO3FuklS+VTLHTyS68xM6ZW6lpghDbwIhAKQCQimcDCVKqOH/0RhpJToFqqR8
+    tlpv5BS2a3XIWR1T
+    -----END CERTIFICATE-----
+  id: fe885ab6-5cb2-49a9-95ad-a1ca56e904aa
+  key: |-
+    -----BEGIN EC PRIVATE KEY-----
+    MHcCAQEEIHUqhQE62Td283kbrq5dzeWYahwxXlO+93lwC8Z+bp1loAoGCCqGSM49
+    AwEHoUQDQgAEpbHzlZ/jhiAam01zeseXaJ8ZQf24kFUAkFaYKzkP2GqFGS0pzNeQ
+    lhiSR1pJRrnvFyhiqiFjRHl7WA/bbwqYJQ==
+    -----END EC PRIVATE KEY-----
+  snis:
+  - name: server.kong.lan
+consumers:
+- custom_id: test
+  username: test
+plugins:
+- config:
+    consumer_groups: null
+    dictionary_name: kong_rate_limiting_counters
+    disable_penalty: false
+    enforce_consumer_groups: false
+    error_code: 429
+    error_message: API rate limit exceeded
+    header_name: null
+    hide_client_headers: false
+    identifier: consumer
+    limit:
+    - 10
+    namespace: namespace-test
+    path: null
+    redis:
+      cluster_addresses: null
+      connect_timeout: null
+      database: 0
+      host: 192.168.181.134
+      keepalive_backlog: null
+      keepalive_pool_size: 256
+      password: password123
+      port: 6379
+      read_timeout: null
+      send_timeout: null
+      sentinel_addresses: null
+      sentinel_master: null
+      sentinel_password: null
+      sentinel_role: null
+      sentinel_username: null
+      server_name: null
+      ssl: false
+      ssl_verify: false
+      timeout: 2000
+      username: null
+    retry_after_jitter_max: 0
+    strategy: redis
+    sync_rate: 0
+    window_size:
+    - 60
+    window_type: fixed
+  enabled: true
+  instance_name: rta-test
+  name: rate-limiting-advanced
+  protocols:
+  - grpc
+  - grpcs
+  - http
+  - https
+  route: route-test
+  service: service-test
+services:
+- connect_timeout: 60000
+  enabled: true
+  host: httpbin.org
+  name: service-test
+  path: /anything
+  port: 80
+  protocol: http
+  read_timeout: 60000
+  retries: 5
+  routes:
+  - https_redirect_status_code: 426
+    name: route-test
+    path_handling: v0
+    paths:
+    - /test
+    plugins:
+    - config:
+        allow_partial_chain: false
+        anonymous: null
+        authenticated_group_by: CN
+        ca_certificates:
+        - 10f7e191-6812-4d8f-8964-63b1429d917e
+        - 1320ba07-75f2-46b9-8f32-9554d87dbad0
+        - 86e8dbe2-d87a-4e87-9210-ce65f7bca7ae
+        cache_ttl: 60
+        cert_cache_ttl: 60000
+        consumer_by:
+        - username
+        - custom_id
+        default_consumer: null
+        http_proxy_host: null
+        http_proxy_port: null
+        http_timeout: 30000
+        https_proxy_host: null
+        https_proxy_port: null
+        revocation_check_mode: IGNORE_CA_ERROR
+        send_ca_dn: false
+        skip_consumer_lookup: true
+      enabled: true
+      name: mtls-auth
+      protocols:
+      - grpc
+      - grpcs
+      - http
+      - https
+    preserve_host: false
+    protocols:
+    - http
+    - https
+    regex_priority: 0
+    request_buffering: true
+    response_buffering: true
+    strip_path: true
+  - https_redirect_status_code: 426
+    name: second-route
+    path_handling: v0
+    paths:
+    - /new
+    preserve_host: false
+    protocols:
+    - http
+    - https
+    regex_priority: 0
+    request_buffering: true
+    response_buffering: true
+    strip_path: true
+  write_timeout: 60000
